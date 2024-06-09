@@ -83,7 +83,7 @@ preset_t presets[] = {
   {"bsd",     "*BSD"},
   {"linux",   "Linux"},
   {"hurd",    "GNU/Hurd"},
-  {"windows", "Windows"},
+  {"windows", "Linux"},
   {"unix",    "*nix"},
   {"deck",    "Steam Deck"},
   {"reactos", "ReactOS"},
